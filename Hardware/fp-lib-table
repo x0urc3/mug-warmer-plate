@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "USB_C_Power")(type "KiCad")(uri "/home/kmbs/MEGA/Project/mug-warmer-plate/ref/USB-C-Connectors/Kicad/Footprints/USB-C-Power-tester.pretty")(options "")(descr "USB C Connectors"))
+)
