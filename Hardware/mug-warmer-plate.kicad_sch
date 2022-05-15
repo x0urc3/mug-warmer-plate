@@ -2250,7 +2250,7 @@
     (property "Reference" "TP2" (id 0) (at 102.87 39.3699 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "TestPoint" (id 1) (at 102.87 41.9099 90)
+    (property "Value" "" (id 1) (at 102.87 41.9099 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm" (id 2) (at 97.79 45.72 0)
@@ -2733,10 +2733,10 @@
     (property "Reference" "TP1" (id 0) (at 102.87 34.2899 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "TestPoint" (id 1) (at 102.87 36.8299 90)
+    (property "Value" "" (id 1) (at 102.87 36.8299 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm" (id 2) (at 97.79 40.64 0)
+    (property "Footprint" "" (id 2) (at 97.79 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 97.79 40.64 0)
@@ -2938,16 +2938,16 @@
       (reference "SW1") (unit 1) (value "SW_DIP_x01") (footprint "Button_Switch_THT:SW_PUSH_6mm_H4.3mm")
     )
     (path "/eab7c737-4450-406f-9f80-b2e18bb45dd6"
-      (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
+      (reference "TP1") (unit 1) (value "5V") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
     )
     (path "/829d375c-a6bc-4b11-a8ad-9aee4d2bbd98"
-      (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
+      (reference "TP2") (unit 1) (value "GND") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
     )
     (path "/ddefb04a-3bc6-4293-84d9-1adacd82621e"
-      (reference "TP3") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
+      (reference "TP3") (unit 1) (value "5V") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
     )
     (path "/2b984e20-8f25-40fa-af2c-f1f1931b43c0"
-      (reference "TP4") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
+      (reference "TP4") (unit 1) (value "GND") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
     )
     (path "/c3a44ace-7ce0-4e44-8650-439625bbdbd0"
       (reference "U1") (unit 1) (value "LM35-NEB") (footprint "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown")
