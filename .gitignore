@@ -26,6 +26,14 @@ fp-info-cache
 *.xml
 *.csv
 
+# PlatformIO files
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio
+
+
 #Misc
 ref/
 out/
