@@ -1,4 +1,4 @@
-# Mug Warmer Plate
+# [Work-In-Progress] Mug Warmer Plate
 A Mug Warmer PCB plate
 
 ## To Do
